@@ -7,3 +7,8 @@ def add(first_num, second_num)
     return first_num + second_num
 end
 print add(1,2)
+
+def subtract(first_num, second_num)
+    return first_num - second_num
+end
+print subtract(10,5)
