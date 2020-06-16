@@ -33,3 +33,8 @@ def join_string(string_1, string_2)
     return string_1 + string_2
 end 
     print(join_string)
+
+    def string_as_number(string_1 , string_2)
+    return string_one.to_i + string_2.to_i
+end
+    p string_as_number("1", "2")
