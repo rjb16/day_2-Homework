@@ -12,3 +12,8 @@ def subtract(first_num, second_num)
     return first_num - second_num
 end
 print subtract(10,5)
+
+def multiply(first_num, second_num)
+    return first_num * second_num
+end
+print multiply(4,2)
