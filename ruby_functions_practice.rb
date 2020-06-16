@@ -17,3 +17,8 @@ def multiply(first_num, second_num)
     return first_num * second_num
 end
 print multiply(4,2)
+
+def divide(first_num, second_num)
+    return first_num / second_num
+end
+print (10,2)
