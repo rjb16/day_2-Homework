@@ -23,18 +23,6 @@ def divide(first_num, second_num)
 end
 print (10,2)
 
-# def length_of_string(test_string)
-#     test_string = "A string of length 21"
-#     return test_string
-
-def join_string(string_1, string_2)
-    string_1 = "Mary had a little lamb, "
-    string_2 = "its fleece was white as snow"
-    return string_1 + string_2
-end 
-    print(join_string)
-
-    def string_as_number(string_1 , string_2)
-    return string_one.to_i + string_2.to_i
+def length_of_string(string)
+    return string.length
 end
-    p string_as_number("1", "2")
